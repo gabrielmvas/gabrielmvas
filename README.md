@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, JavaScript, Vue, Angular, Machine Learning**
 
-- 📄 Know about my experiences [www.linkedin.com/in/gabriel-m-vasconcelos](www.linkedin.com/in/gabriel-m-vasconcelos)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/gabriel-m-vasconcelos)
 
 - ♟ Fun fact **I enjoy playing Chess**
 
