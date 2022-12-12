@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Design Patterns**
 
-- 💬 Ask me about **Python, JavaScript, Vue, Angular, Machine Learning**
+- 💬 Ask me about **Clean Code, Python, JavaScript, Vue, Angular, Machine Learning**
 
 - 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/gabriel-m-vasconcelos)
 
